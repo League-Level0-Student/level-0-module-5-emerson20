@@ -31,6 +31,9 @@ Steve.setSpeed(100);
 		for (int i = 0; i < num; i++) {
 Steve.move(200);		
 Steve.turn(90);
+Steve.move(100);
+Steve.turn(116);
+Steve.move(270);
 		}
 	
 		//6. Make it so your shapes do not overlap
