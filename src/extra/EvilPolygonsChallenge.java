@@ -12,7 +12,7 @@ public class EvilPolygonsChallenge {
 		//1. Create a new Robot
 Robot Steve = new Robot();
 		//2. Set the speed to 100
-Steve.setSpeed(100);
+Steve.setSpeed(200);
 		int colorChoice=JOptionPane.showOptionDialog(null, "Pick a color.", "title", JOptionPane.INFORMATION_MESSAGE, JOptionPane.DEFAULT_OPTION, null, new String[]{"turquoise","green","yellow"}, 0);
 		System.out.println(colorChoice);
 		//3. Use if statements to check the the value of colorChoice and set the pen color accordingly 
