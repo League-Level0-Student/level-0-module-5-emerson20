@@ -36,7 +36,7 @@ Steve.turn(116);
 Steve.move(270);
 		}
 	
-		//6. Make it so your shapes do not overlap
+		//6. Make it so your shapes do not 
 
 		//7. Challenge: add more colors to the Option Dialog.
 	}

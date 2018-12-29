@@ -17,7 +17,7 @@ rob.setY(200);
         // 3. Put the robot's pen down
 rob.penDown();
         // 4. Set the robot’s speed to 10
-rob.setSpeed(699);
+rob.setSpeed(10);
         // 5. Do everything below here 360 times (use i as the counter)
 for (int i = 0; i < 360; i++) {
 	        // 6. Move the robot 3 pixels
